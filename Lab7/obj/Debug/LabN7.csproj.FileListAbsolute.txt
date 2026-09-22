@@ -1,0 +1,11 @@
+C:\Users\artur\RiderProjects\Miapr\LabN7\bin\Debug\LabN7.exe.config
+C:\Users\artur\RiderProjects\Miapr\LabN7\bin\Debug\LabN7.exe
+C:\Users\artur\RiderProjects\Miapr\LabN7\bin\Debug\LabN7.pdb
+C:\Users\artur\RiderProjects\Miapr\LabN7\obj\Debug\LabN7.csproj.AssemblyReference.cache
+C:\Users\artur\RiderProjects\Miapr\LabN7\obj\Debug\LabN7.csproj.SuggestedBindingRedirects.cache
+C:\Users\artur\RiderProjects\Miapr\LabN7\obj\Debug\LabN7.Properties.Resources.resources
+C:\Users\artur\RiderProjects\Miapr\LabN7\obj\Debug\LabN7.csproj.GenerateResource.cache
+C:\Users\artur\RiderProjects\Miapr\LabN7\obj\Debug\LabN7.csproj.CoreCompileInputs.cache
+C:\Users\artur\RiderProjects\Miapr\LabN7\obj\Debug\LabN7.exe
+C:\Users\artur\RiderProjects\Miapr\LabN7\obj\Debug\LabN7.pdb
+C:\Users\artur\RiderProjects\Miapr\LabN7\obj\Debug\LabN7.frmMain.resources

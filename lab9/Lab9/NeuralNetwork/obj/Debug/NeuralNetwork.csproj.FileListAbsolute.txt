@@ -1,0 +1,12 @@
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.AssemblyReference.cache
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\NeuralNetwork\obj\Debug\NeuralNetwork.pdb

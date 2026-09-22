@@ -1,0 +1,12 @@
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\ImageLoad\bin\Debug\ImageLoad.dll
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\ImageLoad\bin\Debug\ImageLoad.pdb
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\ImageLoad\obj\Debug\ImageLoad.csproj.AssemblyReference.cache
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\ImageLoad\obj\Debug\ImageLoad.csproj.CoreCompileInputs.cache
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\ImageLoad\obj\Debug\ImageLoad.dll
+D:\TEMP\миапр 8-9 с#\Лаба9\Lab9\ImageLoad\obj\Debug\ImageLoad.pdb
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\ImageLoad\bin\Debug\ImageLoad.dll
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\ImageLoad\bin\Debug\ImageLoad.pdb
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\ImageLoad\obj\Debug\ImageLoad.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\ImageLoad\obj\Debug\ImageLoad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\ImageLoad\obj\Debug\ImageLoad.dll
+C:\Users\User\Desktop\работы\4сем\Миапр\lab9\Lab9\ImageLoad\obj\Debug\ImageLoad.pdb
